@@ -1,8 +1,8 @@
-# 🇾🇪 Yemen Vision Digital Gateway (2026) 🤖
+# 🇾🇪 Smart-Yemen-Ecosystem-2026 🤖
 
-Welcome to the **Yemen Vision Digital Gateway**, an advanced AI-powered simulation and automation ecosystem built to simulate the future of digital infrastructure, smart seaports, autonomous robotics, and sustainable development in Yemen. 
+Welcome to the **Smart Yemen Ecosystem (2026)**, an advanced AI-powered simulation and automation platform engineered to model the future of digital infrastructure, smart seaports, autonomous robotics, and sustainable development in Yemen.
 
-This project was proudly launched on the **26th of September National Day** to showcase how technology, clean coding, and artificial intelligence can drive nation-building, modern logistics, and heritage preservation.
+This project was proudly launched on the **26th of September National Day** to highlight how technology, clean coding, and artificial intelligence can drive nation-building, modern logistics, and heritage preservation.
 
 ---
 
@@ -13,9 +13,9 @@ This project was proudly launched on the **26th of September National Day** to s
 ### 📋 Professional Identification & Contact Info:
 *   **📍 Location:** Yemen
 *   **🪪 National ID:** 01010305468
-*   **📞 Phone:** [00967777852433](tel:00967777852433)
+*   **📞 Phone:**(tel:00967777852433)
 *   **📧 Email:** [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com)
-*   **💼 LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member)
+*   **💼 LinkedIn Profile:** [Connect on LinkedIn](https://linkedin.com)
 
 ---
 
@@ -44,7 +44,7 @@ Visit our official **Shopify Store** to access:
 *   **4K/8K Cyberpunk Yemen Wallpaper Packs** generated via tailored prompt engineering.
 *   **Premium UI/UX Frontend Templates** tailored for maritime, logistics, and tech applications blending Yemeni culture with modern tech aesthetics.
 
-🔗 **[Visit Our Shopify Store Here]** *(Replace with your actual link)*
+🔗 **[Visit Our Shopify Store Here]** *(Replace this text with your actual store link)*
 
 ---
 
@@ -56,12 +56,13 @@ This project is open-source and licensed under the **MIT License**. You are free
 *Built with passion, vision, and code. Happy 26th of September!* 🇾🇪
 
 
+
 ---
 
 
-# 🇾🇪 بوابة رؤية اليمن الرقمية (2026) 🤖
+# 🇾🇪 Smart-Yemen-Ecosystem-2026 🤖
 
-أهلاً بكم في **بوابة رؤية اليمن الرقمية**، وهي منظومة برمجية متكاملة مدعومة بالذكاء الاصطناعي لمحاكاة مستقبل البنية التحتية الرقمية، الموانئ الذكية، الروبوتات المستقلة، والتنمية المستدامة في اليمن.
+أهلاً بكم في **منظومة وبوابة رؤية اليمن الرقمية (Smart Yemen Ecosystem)**، وهي منظومة برمجية متكاملة مدعومة بالذكاء الاصطناعي لمحاكاة مستقبل البنية التحتية الرقمية، الموانئ الذكية، الروبوتات المستقلة، والتنمية المستدامة في اليمن.
 
 تم إطلاق هذا المشروع بكل فخر بالتزامن مع **العيد الوطني المجيد لثورة 26 سبتمبر**، لإبراز دور التكنولوجيا، الأكواد البرمجية النظيفة، والذكاء الاصطناعي في بناء الأوطان، وتطوير الخدمات اللوجستية الحديثة، والحفاظ على التراث العريق.
 
@@ -74,7 +75,7 @@ This project is open-source and licensed under the **MIT License**. You are free
 ### 📋 البيانات الشخصية ووسائل الاتصال الرسمية:
 *   **📍 الموقع الحالي:** اليمن (Yemen)
 *   **🪪 الرقم القومي:** 01010305468
-*   **📞 رقم الهاتف:** [00967777852433](tel:00967777852433)
+*   **📞 رقم الهاتف:**(tel:00967777852433)
 *   **📧 البريد الإلكتروني:** [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com)
 *   **💼 الحساب الاحترافي على LinkedIn:** [تواصل معي عبر لينكد إن](https://linkedin.com)
 
