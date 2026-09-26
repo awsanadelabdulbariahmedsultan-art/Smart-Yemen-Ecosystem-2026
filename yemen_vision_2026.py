@@ -3,6 +3,7 @@
 # Powered By ENG. AWSAN ADEL ABDULBARI AHMED SULTAN
 
 import time
+import os
 import google.generativeai as genai
 
 class YemenFutureEcosystem:
@@ -11,9 +12,11 @@ class YemenFutureEcosystem:
         self.developer = "ENG. AWSAN ADEL ABDULBARI AHMED SULTAN"
         self.robot_status = "نشط ومستقر بنسبة 100%"
         
-        # إعداد مفتاح ربط Google AI Studio (API Key)
-        # تأكد من استبدال الخانة بالـ API Key الخاص بك من المنصة
-        genai.configure(api_key="YOUR_GEMINI_API_KEY")
+        # الطريقة الآمنة: الكود يبحث عن المفتاح في جهازك تلقائياً دون كتابته هنا
+        # أو يمكنك استبدال os.environ.get("GEMINI_API_KEY") بمفتاحك مباشرة بين علامتي التنصيص محلياً فقط
+        api_key = os.environ.get("GEMINI_API_KEY") or "ضع_مفتاحك_الخاص_هنا_في_جهازك_المحلي"
+        
+        genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel('gemini-1.5-flash')
 
     def boot_system(self):
@@ -39,6 +42,7 @@ class YemenFutureEcosystem:
             print(response.text)
         except Exception as e:
             print(f"❌ حدث خطأ أثناء الاتصال بـ Google AI Studio: {e}")
+            print("💡 تذكير: تأكد من ضبط الـ API Key الخاص بك لتشغيل الذكاء الاصطناعي الحي.")
         print("-" * 60)
 
 if __name__ == "__main__":
